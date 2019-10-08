@@ -10,7 +10,7 @@ from src.LogLib import LogLib
 
 
 from ftplib import FTP
-# TODO: cleaner way of defining sys path or posix and nt
+# TODO: cleaner way of defining sys path for posix and nt
 
 VERSION = "0.1-(Beta)"
 TIMESTAMP = "June'18"
